@@ -12,4 +12,5 @@ If you were to repeat this or a similar sentiment analysis in Danish I suggest y
 that the python script is for python 2 and the dataset used is in three folder (since the data was collected over three sessions).
 
 
+
 # Contacts
