@@ -2,7 +2,7 @@
 
 This is the scripts used for the article, ['Analysing Political Biases in Danish Newspapers Using Sentiment Analysis', by Enevoldsen and Hansen 2017](https://tidsskrift.dk/lwo/article/view/96014).
 
-If you were to repeat this or a similar sentiment analysis in Danish I suggest you use SENTIDA [(Lauridsen, Dalsgaard &  Svendsen, 2019)](https://tidsskrift.dk/lwo/article/view/115711), see also their [github](https://github.com/Guscode/Sentida).
+If you were to repeat this or a similar sentiment analysis in Danish I suggest you use Sentida [(Lauridsen, Dalsgaard &  Svendsen, 2019)](https://tidsskrift.dk/lwo/article/view/115711) or [Asent](https://github.com/kennethenevoldsen/asent).
 
 
 
